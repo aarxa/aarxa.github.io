@@ -1,10 +1,10 @@
 // 📦 Projects list: Customize with your own project details.
 export const projects = [
   {
-    title: 'XO Rumble', // Enter project title.
-    githubUrl: '', // Enter GitHub URL.
-    externalUrl: '', // Enter live site URL.
-    languages: ['Zustand', 'React', 'TypeScript'], // Specify technologies used.
+    title: 'CineFix Movie App', // Enter project title.
+    githubUrl: 'https://github.com/aarxa/Movie-App', // Enter GitHub URL.
+    externalUrl: 'https://cineflix-movieapp.netlify.app', // Enter live site URL.
+    languages: ['HTML', 'CSS', 'JavaScript'], // Specify technologies used.
   },
   {
     title: 'Bogetta',
@@ -69,5 +69,6 @@ export const navbarData = {
     { name: 'About' },
     { name: 'Projects' },
     { name: 'Contact' },
+    //{ name: 'Other Work'}
   ],
 }
