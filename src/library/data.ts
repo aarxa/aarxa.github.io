@@ -1,40 +1,40 @@
 // 📦 Projects list: Customize with your own project details.
 export const projects = [
   {
-    title: 'XO Rumble', // Enter project title.
-    githubUrl: '', // Enter GitHub URL.
+    title: 'NuCure Clinic App', // Enter project title.
+    githubUrl: 'https://github.com/aarxa/NuCure-App', // Enter GitHub URL.
     externalUrl: '', // Enter live site URL.
-    languages: ['Zustand', 'React', 'TypeScript'], // Specify technologies used.
+    languages: ['Next.js', 'TailwindCSS', 'TypeScript', 'AppWrite'], // Specify technologies used.
   },
   {
-    title: 'Bogetta',
-    githubUrl: '',
-    externalUrl: '',
-    languages: ['Next.js', 'TypeScript', 'Prisma', 'Stripe'],
+    title: 'Littlest Tokyo',
+    githubUrl: 'https://github.com/aarxa/threeJS-project',
+    externalUrl: 'https://aarxa-3d.netlify.app',
+    languages: ['Three.js', 'JavaScript', 'DracoLoader'],
   },
   {
-    title: 'Bitcoin Game',
-    githubUrl: '',
-    externalUrl: '',
-    languages: ['E2E', 'React', 'TypeScript', 'Firebase'],
+    title: 'MacOs Clone',
+    githubUrl: 'https://github.com/aarxa/macos-clone',
+    externalUrl: 'https://macos-aarxa.netlify.app/',
+    languages: ['React', 'Vite', 'TypeScript', 'Zustand'],
   },
   {
-    title: 'Chat App',
-    githubUrl: '',
+    title: 'Maze Game',
+    githubUrl: 'https://github.com/aarxa/MazeGame-with-Pathfinding-Algorithms',
     externalUrl: '',
-    languages: ['React', 'TypeScript', 'Firebase'],
+    languages: ['DFS', 'BFS', 'Dijkstra', 'A*'],
   },
   {
-    title: 'Netflix Clone',
-    githubUrl: '',
-    externalUrl: '',
-    languages: ['React', 'TypeScript', 'Firebase'],
+    title: 'Movie App',
+    githubUrl: 'https://github.com/aarxa/Movie-App',
+    externalUrl: 'https://cineflix-movieapp.netlify.app/',
+    languages: ['HTML', 'CSS', 'JavaScript'],
   },
   {
-    title: 'Instagram Clone',
-    githubUrl: '',
+    title: 'Asteroids Arcade',
+    githubUrl: 'https://github.com/aarxa/Asteroids-Arcade-Game',
     externalUrl: '',
-    languages: ['React', 'TypeScript', 'CSS', 'Firebase'],
+    languages: ['C++', 'SFML', 'Graphics'],
   },
 ]
 
@@ -47,7 +47,7 @@ export const socialLinks = [
   },
   {
     name: 'Instagram',
-    url: '', // Enter GitHub link.
+    url: 'https://www.instagram.com/aaryarajgorr/', // Enter GitHub link.
     icon: 'Instagram',
   },
   {

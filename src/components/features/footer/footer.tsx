@@ -2,5 +2,5 @@ import React from 'react'
 import './style.css'
 
 export function Footer() {
-  return <footer className="footer">&#169; 2024 Miraya tech</footer>
+  return <footer className="footer">&#169; 2024 Aarya Rajgor</footer>
 }
