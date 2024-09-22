@@ -69,5 +69,6 @@ export const navbarData = {
     { name: 'About' },
     { name: 'Projects' },
     { name: 'Contact' },
+    //{ name: 'Other Work'}
   ],
 }
