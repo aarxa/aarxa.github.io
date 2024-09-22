@@ -2,7 +2,7 @@
 
 ![Home Section](./public/demo.gif)
 
-This portfolio is a showcase of a frontend developer's work, featuring various sections.
+This portfolio is a showcase of a software developer's work, featuring various sections.
 
 ## 📦 Technologies
 
